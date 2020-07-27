@@ -1,0 +1,21 @@
+,support,itemsets,length
+0,0.36,frozenset({'16...20'}),1
+1,0.24,frozenset({'2.8_3.2'}),1
+2,0.16,frozenset({'21...25'}),1
+3,0.32,frozenset({'26...30'}),1
+4,0.48,frozenset({'3.2_3.6'}),1
+5,0.28,frozenset({'3.6_4.0'}),1
+6,0.24,frozenset({'French'}),1
+7,0.16,frozenset({'M.S'}),1
+8,0.2,frozenset({'Ph.D'}),1
+9,0.44,frozenset({'junior'}),1
+10,0.16,frozenset({'over 30'}),1
+11,0.28,frozenset({'philosophy'}),1
+12,0.16,frozenset({'senior'}),1
+13,0.2,"frozenset({'3.2_3.6', '16...20'})",2
+14,0.24,"frozenset({'16...20', 'junior'})",2
+15,0.16,"frozenset({'21...25', 'junior'})",2
+16,0.16,"frozenset({'3.2_3.6', '26...30'})",2
+17,0.16,"frozenset({'26...30', 'Ph.D'})",2
+18,0.2,"frozenset({'26...30', 'philosophy'})",2
+19,0.2,"frozenset({'3.2_3.6', 'junior'})",2
